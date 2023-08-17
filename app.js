@@ -1,1 +1,1 @@
-console.log("aaas")
+console.log("fixed")
